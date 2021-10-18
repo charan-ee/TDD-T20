@@ -1,14 +1,14 @@
-##T20 Match Simulator | Bengaluru vs Chennai
+## T20 Match Simulator | Bengaluru vs Chennai
 
 Let us watch the awaited rivalry and find out who grabs the title home.
 
-How to simulate the game on your machine ?
+#### How to simulate the game on your machine ?
 
 - Clone the repo
 - npm i 
 - npm run start
 
-###Requirements
+### Requirements
 - Match needs 4 overs to play.
 - Team banglore left with 3 wickets in hand and need to score 40 more runs.
 - Run generator should generate numbers between -1 and 6
